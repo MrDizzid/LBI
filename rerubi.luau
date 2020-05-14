@@ -1,0 +1,1 @@
+DgBitgBits8gBits32gBits64mathldexpgFloatgStringInstrConstProtoLinesNameFirstLLastLUpvalsArgsVargsStackEnumValueABCABxAsBxbOpArgKInstRegistercChunkDecodeLuaLua bytecode expected.assertOnly Lua 5.1 is supported.errorInteger size not supportedSizet size not supported
